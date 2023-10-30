@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MathieuJ/PS5/TestUnreal/TestRender/Content/Shaders/M_BlackAWhite.uasset",
+				"D:/MathieuJ/PS5/TestUnreal/TestRender/Content/Shaders/M_BlackAWhite_Inst.uasset",
+				"D:/MathieuJ/PS5/TestUnreal/TestRender/Content/ShaderTestScene.umap",
+				"D:/MathieuJ/PS5/TestUnreal/TestRender/Content/Shaders/MI_BW_Mushroo.uasset",
+				"D:/MathieuJ/PS5/TestUnreal/TestRender/Content/Shaders/MI_BW_Mushroom.uasset",
 				"E:/TestUnreal/TestRender/Content/ezfjgrjer_BuiltData.uasset",
 				"E:/TestUnreal/TestRender/Content/ezfjgrjer.umap",
 				"E:/TestUnreal/TestRender/Content/Meshes/LillyPad_Big.uasset",
