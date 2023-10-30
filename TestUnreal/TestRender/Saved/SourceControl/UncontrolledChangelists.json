@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/OrionLeclerc/Unreal/RecherchesEtDeveloppement/ChromaRepo/TestUnreal/TestRender/Content/ProgRandD/L_TestLevel.umap",
+				"D:/OrionLeclerc/Unreal/RecherchesEtDeveloppement/ChromaRepo/TestUnreal/TestRender/Content/ProgRandD/Blueprints/Controller/BP_MainPlayerController.uasset",
+				"D:/OrionLeclerc/Unreal/RecherchesEtDeveloppement/ChromaRepo/TestUnreal/TestRender/Content/ProgRandD/Blueprints/Controller/BP_ChromaGameMode.uasset",
+				"D:/OrionLeclerc/Unreal/RecherchesEtDeveloppement/ChromaRepo/TestUnreal/TestRender/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"E:/TestUnreal/TestRender/Content/ezfjgrjer_BuiltData.uasset",
 				"E:/TestUnreal/TestRender/Content/ezfjgrjer.umap",
 				"E:/TestUnreal/TestRender/Content/Meshes/LillyPad_Big.uasset",
